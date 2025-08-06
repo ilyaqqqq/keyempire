@@ -1,0 +1,179 @@
+{
+  "ROBLOXCHEATZ.COM": {
+    "pfp": "https://images-ext-1.discordapp.net/external/vMuiJbaupguXcWuubrqFpmCa3TwNWPmN4ITpQE9F8bY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1329830434531573800/8d317f782d11f4e792bf65380a570910.png?format=webp&quality=lossless&width=1026&height=1026",
+    "arceusx": {
+      "payments": [
+        "stripe",
+        "cashapp"
+      ]
+    },
+    "bunni": {
+      "30": {
+        "price": "9.99",
+        "url": "https://robloxcheatz.com/group/bunni?p=bunni30d"
+      },
+      "payments": [
+        "crypto",
+        "stripe",
+        "cashapp",
+        "bank transfer"
+      ],
+      "lifetime": {
+        "price": "34.99",
+        "url": "https://robloxcheatz.com/group/bunni"
+      }
+    },
+    "ronin": {
+      "7": {
+        "price": "2.49",
+        "url": "https://robloxcheatz.com/group/ronin"
+      },
+      "payments": [
+        "crypto",
+        "stripe",
+        "cashapp",
+        "bank transfer"
+      ],
+      "lifetime": {
+        "price": "9.89",
+        "url": "https://robloxcheatz.com/group/ronin"
+      }
+    },
+    "wave": {
+      "7": {
+        "price": "7.49",
+        "url": "https://robloxcheatz.com/group/wave"
+      },
+      "30": {
+        "price": "24.49",
+        "url": "https://robloxcheatz.com/group/wave"
+      },
+      "90": {
+        "price": "44.49",
+        "url": "https://robloxcheatz.com/group/wave"
+      },
+      "365": {
+        "price": "144.49",
+        "url": "https://robloxcheatz.com/group/wave"
+      },
+      "payments": [
+        "crypto",
+        "stripe",
+        "cashapp",
+        "bank transfer"
+      ]
+    },
+    "zenith": {
+      "7": {
+        "price": "6.49",
+        "url": "https://robloxcheatz.com/group/zenith"
+      },
+      "30": {
+        "price": "19.99",
+        "url": "https://robloxcheatz.com/group/zenith"
+      },
+      "payments": [
+        "crypto",
+        "stripe",
+        "cashapp",
+        "bank transfer"
+      ]
+    },
+    "seliware": {
+      "7": {
+        "price": "3.99",
+        "url": "https://robloxcheatz.com/group/seliware"
+      },
+      "30": {
+        "price": "9.99",
+        "url": "https://robloxcheatz.com/group/seliware"
+      },
+      "payments": [
+        "crypto",
+        "stripe",
+        "cashapp",
+        "bank transfer"
+      ]
+    },
+    "assembly": {
+      "payments": [
+        "crypto",
+        "stripe",
+        "cashapp",
+        "bank transfer"
+      ],
+      "lifetime": {
+        "price": "11.99",
+        "url": "https://robloxcheatz.com/product/assembly"
+      }
+    },
+    "serotonin": {
+      "30": {
+        "price": "9.99",
+        "url": "https://robloxcheatz.com/product/serotonin"
+      },
+      "payments": [
+        "crypto",
+        "stripe",
+        "cashapp",
+        "bank transfer"
+      ]
+    },
+    "matcha": {
+      "payments": [
+        "crypto",
+        "stripe",
+        "cashapp",
+        "bank transfer"
+      ],
+      "lifetime": {
+        "price": "9.99",
+        "url": "https://robloxcheatz.com/product/matcha"
+      }
+    },
+    "potassium": {
+      "payments": [
+        "crypto",
+        "stripe",
+        "cashapp",
+        "bank transfer"
+      ],
+      "lifetime": {
+        "price": "21.99",
+        "url": "https://robloxcheatz.com/product/potassium"
+      }
+    },
+    "codex": {
+      "30": {
+        "price": "4.98",
+        "url": "https://robloxcheatz.com/group/53c7a019-6470-4a9c-8e37-bd3ad7474517"
+      },
+      "90": {
+        "price": "9.98",
+        "url": "https://robloxcheatz.com/group/53c7a019-6470-4a9c-8e37-bd3ad7474517"
+      },
+      "payments": [
+        "crypto",
+        "stripe",
+        "cashapp",
+        "bank transfer"
+      ],
+      "lifetime": {
+        "price": "19.98",
+        "url": "https://robloxcheatz.com/group/53c7a019-6470-4a9c-8e37-bd3ad7474517"
+      }
+    },
+    "isabelle": {
+      "payments": [
+        "crypto",
+        "stripe",
+        "cashapp",
+        "bank transfer"
+      ],
+      "lifetime": {
+        "price": "10.99",
+        "url": "https://robloxcheatz.com/product/2c7bb012-56bc-4cad-be68-2f05696a0753"
+      }
+    }
+  }
+}
