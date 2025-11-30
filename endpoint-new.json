@@ -1,1 +1,110 @@
-
+{
+  "ROBLOXCHEATZ.COM": {
+    "pfp": "https://github.com/ilyaqqqq/keyempire/blob/main/profile.png?raw=true",
+    "referral": "21",
+    "arceusx": {
+      "payments": ["stripe", "cashapp"]
+    },
+    "bunni": {
+      "30": {
+        "price": "9.99",
+        "url": "https://robloxcheatz.com/product?id=178fa9f7-f297-41d2-b654-274ed11d3b54&ref=keyempire"
+      },
+      "payments": ["crypto", "stripe", "cashapp", "bank transfer"],
+      "lifetime": {
+        "price": "34.99",
+        "url": "https://robloxcheatz.com/product?id=178fa9f7-f297-41d2-b654-274ed11d3b54&ref=keyempire"
+      }
+    },
+    "ronin": {
+      "7": {
+        "price": "2.49",
+        "url": "https://robloxcheatz.com/product?id=d85e5584-8469-4bd3-be6a-1f616f2959dd&ref=keyempire"
+      },
+      "payments": ["crypto", "stripe", "cashapp", "bank transfer"],
+      "lifetime": {
+        "price": "9.89",
+        "url": "https://robloxcheatz.com/product?id=d85e5584-8469-4bd3-be6a-1f616f2959dd&ref=keyempire"
+      }
+    },
+    "wave": {
+      "7": {
+        "price": "7.49",
+        "url": "https://robloxcheatz.com/product?id=6d1f91b5-4599-467a-b9ba-eadef98c63fe&ref=keyempire"
+      },
+      "30": {
+        "price": "24.49",
+        "url": "https://robloxcheatz.com/product?id=6d1f91b5-4599-467a-b9ba-eadef98c63fe&ref=keyempire"
+      },
+      "90": {
+        "price": "44.49",
+        "url": "https://robloxcheatz.com/product?id=6d1f91b5-4599-467a-b9ba-eadef98c63fe&ref=keyempire"
+      },
+      "365": {
+        "price": "144.49",
+        "url": "https://robloxcheatz.com/product?id=6d1f91b5-4599-467a-b9ba-eadef98c63fe&ref=keyempire"
+      },
+      "payments": ["crypto", "stripe", "cashapp", "bank transfer"]
+    },
+    "seliware": {
+      "7": {
+        "price": "3.99",
+        "url": "https://robloxcheatz.com/product?id=51c9587f-4794-46ef-b6bf-2bd9f13c17d2&ref=keyempire"
+      },
+      "30": {
+        "price": "9.99",
+        "url": "https://robloxcheatz.com/product?id=51c9587f-4794-46ef-b6bf-2bd9f13c17d2&ref=keyempire"
+      },
+      "payments": ["crypto", "stripe", "cashapp", "bank transfer"]
+    },
+    "serotonin": {
+      "30": {
+        "price": "9.99",
+        "url": "https://robloxcheatz.com/product?id=serotonin&ref=keyempire"
+      },
+      "payments": ["crypto", "stripe", "cashapp", "bank transfer"]
+    },
+    "matcha": {
+      "payments": ["crypto", "stripe", "cashapp", "bank transfer"],
+      "lifetime": {
+        "price": "9.99",
+        "url": "https://robloxcheatz.com/product?id=matcha&ref=keyempire"
+      }
+    },
+    "potassium": {
+      "payments": ["crypto", "stripe", "cashapp", "bank transfer"],
+      "lifetime": {
+        "price": "21.99",
+        "url": "https://robloxcheatz.com/product?id=potassium&ref=keyempire"
+      }
+    },
+    "codex": {
+      "30": {
+        "price": "4.98",
+        "url": "https://robloxcheatz.com/product?id=17ca258e-251f-44c6-b89d-601c335d1b9e&ref=keyempire"
+      },
+      "90": {
+        "price": "9.98",
+        "url": "https://robloxcheatz.com/product?id=17ca258e-251f-44c6-b89d-601c335d1b9e&ref=keyempire"
+      },
+      "payments": ["crypto", "stripe", "cashapp", "bank transfer"],
+      "lifetime": {
+        "price": "19.98",
+        "url": "https://robloxcheatz.com/product?id=17ca258e-251f-44c6-b89d-601c335d1b9e&ref=keyempire"
+      }
+    },
+    "isabelle": {
+      "payments": ["crypto", "stripe", "cashapp", "bank transfer"],
+      "lifetime": {
+        "price": "10.99",
+        "url": "https://robloxcheatz.com/product?id=isabelle&ref=keyempire"
+      },
+    "Yerba": {
+      "payments": ["crypto", "stripe", "cashapp", "bank transfer"],
+      "lifetime": {
+        "price": "9.99",
+        "url": "https://robloxcheatz.com/product?id=yerba&ref=keyempire"
+      }
+    }
+  }
+}
