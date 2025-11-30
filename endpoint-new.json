@@ -98,8 +98,9 @@
       "lifetime": {
         "price": "10.99",
         "url": "https://robloxcheatz.com/product?id=isabelle&ref=keyempire"
-      },
-    "Yerba": {
+      }
+    },
+    "yerba": {
       "payments": ["crypto", "stripe", "cashapp", "bank transfer"],
       "lifetime": {
         "price": "9.99",
