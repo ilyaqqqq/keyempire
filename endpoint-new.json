@@ -28,6 +28,10 @@
       }
     },
     "wave": {
+      "1": {
+        "price": "2.99",
+        "url": "https://robloxcheatz.com/product?id=6d1f91b5-4599-467a-b9ba-eadef98c63fe&ref=keyempire"
+      },
       "7": {
         "price": "7.49",
         "url": "https://robloxcheatz.com/product?id=6d1f91b5-4599-467a-b9ba-eadef98c63fe&ref=keyempire"
@@ -74,7 +78,7 @@
     "potassium": {
       "payments": ["crypto", "stripe", "cashapp", "bank transfer"],
       "lifetime": {
-        "price": "21.99",
+        "price": "24.99",
         "url": "https://robloxcheatz.com/product?id=potassium&ref=keyempire"
       }
     },
